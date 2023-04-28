@@ -17,7 +17,7 @@ this is an ML project in which we are using  GUASSIAN NAIVE BAYES and MULTINOMIA
 11. repeating steps from 6 to 9 for multinomial algorithm 
 
 # download data
-download data from bot_accounts.csv
+Download dataset frm url........https://www.kaggle.com/datasets/shriyashjagtap/kaggle-bot-account-detection
 
 # description of dataset
 check description of dataset from DESCRIPTION OF DATASET.odt
